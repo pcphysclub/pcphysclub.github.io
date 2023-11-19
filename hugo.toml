@@ -1,0 +1,14 @@
+baseURL = 'http://pcphysclub.github.io/'
+languageCode = 'en-us'
+title = 'Physics Club'
+theme = 'paper'
+
+[params]
+  # color style
+  color = 'linen'                           # linen, wheat, gray, light
+
+  # header social icons
+  github = 'pcphysclub'                 # github.com/YOUR_GITHUB_ID
+
+  # misc
+  math = true                               # enable KaTeX math typesetting globally
