@@ -6,7 +6,7 @@ The Physics Club aims to foster an interest in physics while providing a welcomi
 
 ## Handouts
 
-Physics Club produced the following handouts for physics courses offered at school. See the [info](/handouts/info.pdf) document for details.
+Physics Club produced the following handouts for physics courses offered at school. See the [info](./handouts/info.pdf) document for details.
 
 [A1](https://google.com) ([Sol](https://google.com))
 [A2](https://google.com) ([Sol](https://google.com))
