@@ -9,6 +9,8 @@ theme = 'paper'
 
   # header social icons
   github = 'pcphysclub'                 # github.com/YOUR_GITHUB_ID
+  
+  favicon = true
 
   # misc
   math = true                               # enable KaTeX math typesetting globally
