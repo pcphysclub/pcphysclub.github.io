@@ -12,7 +12,7 @@ Physics Club produced the following handouts for physics courses offered at scho
 [A2](https://google.com) ([Sol](https://google.com))
 [A3](https://google.com) ([Sol](https://google.com))
 [A4](https://google.com) ([Sol](https://google.com))
-[A5](https://google.com) ([Sol](https://google.com))
+[A5](./handouts/A5.pdf) ([Sol](https://google.com))
 [A6](https://google.com) ([Sol](https://google.com))
 [A7](https://google.com) ([Sol](https://google.com))\
 [M1](https://google.com) ([Sol](https://google.com))
