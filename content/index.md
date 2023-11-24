@@ -2,7 +2,7 @@
 title: Home
 ---
 
-The Physics Club aims to foster an interest in physics while providing a welcoming community with various resources for those already involved in the subject. We have presentations on a variety of topics in the physics world, conduct demonstrations that highlight concepts not covered in a traditional physics class, host review sessions for unit tests and AP exams, and host competitions including training sessions.
+The Physics Club aims to foster an interest in physics while providing a welcoming community with various resources for those already involved in the subject. We have presentations on a variety of topics in the physics world, conduct demonstrations that highlight concepts not covered in a standard physics class, host review sessions for unit tests and AP exams, and host competitions including training sessions.
 
 ## Handouts
 
